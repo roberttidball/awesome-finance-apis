@@ -305,9 +305,9 @@ APIs for GDP, inflation, employment, central bank rates, and other economic indi
   - **Free tier:** Completely free; no API key required.
   - **Limitations:** Aggregator — data freshness depends on the upstream provider. Some series may have gaps.
 
-- [**FXMacroData**](https://fxmacrodata.com/api-docs) — FX-focused macroeconomic data API covering indicators, release calendars, central-bank decisions, FX context, COT positioning, commodities, and bond-yield data.
+- [**FXMacroData**](https://fxmacrodata.com/documentation/reference) — FX-focused macroeconomic data API covering indicators, release calendars, central-bank decisions, FX context, COT positioning, commodities, and bond-yield data.
   - **Best for:** Event-driven FX macro research, release-calendar monitoring, and AI agent workflows.
-  - **Free tier:** Public USD endpoints are available without an API key; broader multi-currency and premium datasets use API key access.
+  - **Free tier:** Catalogue and release-calendar endpoints require no key; USD macro history supports up to 100 no-key requests/day.
   - **Limitations:** Not a tick-by-tick market-data feed; protected endpoints require an FXMacroData API key.
 
 ## Alternative & Sentiment Data
